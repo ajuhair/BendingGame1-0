@@ -1,0 +1,4 @@
+name: BendingGame
+version: 1.0
+main: me.bikram.bendinggame.BendingGame
+api-version: 1.19
